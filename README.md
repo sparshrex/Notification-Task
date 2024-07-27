@@ -12,7 +12,7 @@ This project is a web application developed using Next.js, a React framework for
 
 ## Preview
 
-You can preview the project [here]().
+You can preview the project [here](https://notification-task-i9ps4kzfj-sparshrexs-projects.vercel.app/).
 
 <img width='287px' height='620px' src='./public/Screenshot.png'/>
 
