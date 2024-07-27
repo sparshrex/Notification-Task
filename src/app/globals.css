@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: black;
+  
+}
+
+@media screen and (max-width: 767px) {
+  .small-screen {
+    width: 250px;
+    height: 36px;
+    font-size: 14px;
+  }
+}
